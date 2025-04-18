@@ -4,6 +4,7 @@ const path = require("path");
 
 module.exports = {
     name: "ytmusic",
+    aliases: ["sing","s"],
     usePrefix: false,
     usage: "ytmusic [query]",
     version: "1.0",
